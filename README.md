@@ -84,11 +84,3 @@ Claude Code 및 Anthropic 관련 소식을 자동 수집·요약해 Slack으로 
 **Build & Automation**: Vite, Webpack, Turborepo, GitHub Actions
 
 **Quality**: Jest, React Testing Library, Vitest, Lighthouse
-
----
-
-## Education
-
-**고려대학교** · 물리학과 학사
-
-**SSAFY 3기** · Python·JavaScript 기반 풀스택 개발 교육 이수
