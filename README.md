@@ -2,7 +2,7 @@
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/hyukhogwon/svg?theme=light&compact=1)](https://tokscale.ai/u/hyukhogwon)
 
-[Email](mailto:hyukho.career@gmail.com) · [GitHub](https://github.com/hyukhogwon)
+hyukho.career@gmail.com
 
 5년 이상의 프론트엔드 개발 경험을 가진 개발자입니다. 레거시 현대화, 프론트엔드 아키텍처 설계, 디자인 시스템, 모노레포/Micro Frontend 환경의 공통 모듈 설계에 관심을 두고 일해왔습니다.
 
