@@ -1,6 +1,6 @@
 # 권혁호 | Frontend Developer
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/hyukhogwon/svg)](https://tokscale.ai/u/hyukhogwon)
+[![Tokscale Stats](https://tokscale.ai/api/embed/hyukhogwon/svg?theme=light&compact=1)](https://tokscale.ai/u/hyukhogwon)
 
 [Email](mailto:hyukho.career@gmail.com) · [GitHub](https://github.com/hyukhogwon)
 
